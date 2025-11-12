@@ -9,7 +9,7 @@
 
 ---
 
-🧩 Project Overview
+=== 🧩 Project Overview ===
 This is the **Phase One** submission for the *Joint PHP & CSS* version of the course project.
 The website represents a small retro product store, featuring placeholder content for all customer-facing pages.
 This phase focuses on:
@@ -20,7 +20,7 @@ This phase focuses on:
 
 ---
 
-🖥️ Technologies Used
+=== 🖥️ Technologies Used ===
 - HTML5
 - CSS3
 - PHP (templating and includes)
@@ -57,7 +57,7 @@ PHP & CSS project/
 
 ---
 
-🧱 Database Overview
+=== 🧱 Database Overview ===
 The relational database structure is defined in 'SQL/database.sql'.
 It includes two base tables:
 - **users** - stores user login credentials
@@ -65,14 +65,14 @@ It includes two base tables:
 
 ---
 
-🎨 Design Details
+=== 🎨 Design Details ===
 - Fonts: Poppins and Roboto (Google fonts)
 - Color Scheme: Purple-based gradients with white text accents
 - Layout: Responsive structure with consistent header/footer across all pages
 
 ---
 
-📍 Phase Two Preview
+=== 📍 Phase Two Preview ===
 Phase two will integrate PHP with MySQL for dynamic data and full interactivity.
 
 © 2025 Teresa Heredia Ayala – Georgian College
