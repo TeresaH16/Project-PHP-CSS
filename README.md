@@ -1,11 +1,11 @@
 # Project-PHP-CSS --- Product Site - Phase One
 
 ===📘 Course Information ===
-**Course:** COMP1054 - Interface Desgin Using CSS // COMP1006 - Web Programming Using PHP
-**Program:** Computer Programming and Data Analysis
-**Instructor:** Jessica Gilfillan / Jeremy McCulley
-**Student:** Teresita Heredia Ayala
-**Date:** November 11th, 2025
+- **Course:** COMP1054 - Interface Desgin Using CSS // COMP1006 - Web Programming Using PHP
+- **Program:** Computer Programming and Data Analysis
+- **Instructor:** Jessica Gilfillan / Jeremy McCulley
+- **Student:** Teresita Heredia Ayala
+- **Date:** November 11th, 2025
 
 ---
 
